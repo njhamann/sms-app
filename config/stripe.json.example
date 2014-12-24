@@ -1,0 +1,23 @@
+{
+  "development": {
+    "plan_ids": {
+      "basic": "basic"
+    },
+    "secret_key": "",
+    "publishable_key": ""
+  },
+  "test": {
+    "plan_ids": {
+      "basic": "basic"
+    },
+    "secret_key": "",
+    "publishable_key": ""
+  },
+  "production": {
+    "plan_ids": {
+      "basic": "basic"
+    },
+    "secret_key": "",
+    "publishable_key": ""
+  }
+}
