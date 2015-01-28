@@ -1,0 +1,17 @@
+{
+  "development": {
+    "from_number": "",
+    "account_sid": "",
+    "auth_token": ""
+  },
+  "test": {
+    "from_number": "",
+    "account_sid": "",
+    "auth_token": ""
+  },
+  "production": {
+    "from_number": "",
+    "account_sid": "",
+    "auth_token": ""
+  }
+}
