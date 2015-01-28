@@ -1,0 +1,20 @@
+{
+  "development": {
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": ""
+  },
+  "test": {
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": ""
+  },
+  "production": {
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": ""
+  }
+}
