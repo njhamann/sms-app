@@ -56,7 +56,7 @@ router.post('/sign_up', function(req, res) {
   req.checkBody('password', 'password is required').notEmpty();
   var errors = req.validationErrors();
   
-  if(error){
+  if(errors){
     req.flash('errors', errors);
   }else{
     var email = req.body.email;

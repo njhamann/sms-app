@@ -1,4 +1,8 @@
 var express = require('express');
 var router = express.Router();
-var subscriptions = require('./subscription')(router);
+
+require('./subscription')(router);
+require('./user')(router);
+require('./account')(router);
+
 module.exports = router;
